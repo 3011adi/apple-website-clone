@@ -1,3 +1,3 @@
 # interior
 
-1.hmtml contains the main file
+1.html contains the main file
